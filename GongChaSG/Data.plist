@@ -1,0 +1,886 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>NameCh</key>
+		<string>奶蓋紅茶</string>
+		<key>Name</key>
+		<string>Gong Cha Milk Black Tea</string>
+		<key>Price</key>
+		<string>$2.50</string>
+		<key>Icon</key>
+		<string>GongChaMilkBlackTea.png</string>
+		<key>TeaType</key>
+		<string>House Special</string>
+	</dict>
+	<dict>
+		<key>NameCh</key>
+		<string>奶蓋綠茶</string>
+		<key>Name</key>
+		<string>Gong Cha Milk Green Tea</string>
+		<key>Price</key>
+		<string>$2.50</string>
+		<key>TeaType</key>
+		<string>House Special</string>
+		<key>Icon</key>
+		<string>GongChaMilkGreenTea.png</string>
+	</dict>
+	<dict>
+		<key>NameCh</key>
+		<string>奶蓋青茶</string>
+		<key>Name</key>
+		<string>Gong Cha Milk Alisan Tea</string>
+		<key>Price</key>
+		<string>$2.50</string>
+		<key>TeaType</key>
+		<string>House Special</string>
+		<key>Icon</key>
+		<string>GongChaMilkAlisanTea.png</string>
+		<key>Special</key>
+		<string>Fav</string>
+	</dict>
+	<dict>
+		<key>NameCh</key>
+		<string>奶蓋烏龍茶</string>
+		<key>Name</key>
+		<string>Gong Cha Milk Oolong Tea</string>
+		<key>Price</key>
+		<string>$2.50</string>
+		<key>TeaType</key>
+		<string>House Special</string>
+		<key>Icon</key>
+		<string>GongChaMilkOolongTea.png</string>
+	</dict>
+	<dict>
+		<key>New item</key>
+		<string></string>
+		<key>TeaType</key>
+		<string>House Special</string>
+		<key>NameCh</key>
+		<string>奶蓋冬瓜茶</string>
+		<key>Name</key>
+		<string>Gong Cha Milk Melon Tea</string>
+		<key>Price</key>
+		<string>$2.80</string>
+		<key>Special</key>
+		<string>Fav</string>
+		<key>Icon</key>
+		<string>GongChaMilkGreenTea.png</string>
+	</dict>
+	<dict>
+		<key>New item</key>
+		<string></string>
+		<key>TeaType</key>
+		<string>Brewed Tea</string>
+		<key>NameCh</key>
+		<string>台灣綠茶</string>
+		<key>Name</key>
+		<string>Taiwan Green Tea</string>
+		<key>Hot</key>
+		<string>Hot.png</string>
+		<key>Price</key>
+		<string>$1.90</string>
+		<key>Icon</key>
+		<string>TaiwanGreenTea.png</string>
+	</dict>
+	<dict>
+		<key>TeaType</key>
+		<string>Brewed Tea</string>
+		<key>NameCh</key>
+		<string>阿里山青荼</string>
+		<key>Name</key>
+		<string>Alisan Tea</string>
+		<key>Hot</key>
+		<string>Hot.png</string>
+		<key>Price</key>
+		<string>$1.90</string>
+		<key>Icon</key>
+		<string>LonganHoneyTea.png</string>
+	</dict>
+	<dict>
+		<key>NameCh</key>
+		<string>凍頂烏龍綠</string>
+		<key>TeaType</key>
+		<string>Brewed Tea</string>
+		<key>Name</key>
+		<string>Oolong Tea</string>
+		<key>Hot</key>
+		<string>Hot.png</string>
+		<key>Price</key>
+		<string>$1.90</string>
+		<key>Icon</key>
+		<string>OolongTea.png</string>
+	</dict>
+	<dict>
+		<key>NameCh</key>
+		<string>台農紅茶</string>
+		<key>TeaType</key>
+		<string>Brewed Tea</string>
+		<key>Name</key>
+		<string>Taiwan Black Tea</string>
+		<key>Price</key>
+		<string>$1.90</string>
+		<key>Hot</key>
+		<string>Hot.png</string>
+		<key>Icon</key>
+		<string>OolongTea.png</string>
+	</dict>
+	<dict>
+		<key>NameCh</key>
+		<string>龙眼花蜜</string>
+		<key>TeaType</key>
+		<string>Brewed Tea</string>
+		<key>Name</key>
+		<string>Longan Honey Tea</string>
+		<key>Price</key>
+		<string>$2.20</string>
+		<key>Icon</key>
+		<string>LonganHoneyTea.png</string>
+	</dict>
+	<dict>
+		<key>NameCh</key>
+		<string>茶花绿茶</string>
+		<key>TeaType</key>
+		<string>Brewed Tea</string>
+		<key>Name</key>
+		<string>Cameilla Tea</string>
+		<key>Price</key>
+		<string>$2.20</string>
+		<key>Special</key>
+		<string>Fav</string>
+		<key>Icon</key>
+		<string>LonganHoneyTea.png</string>
+	</dict>
+	<dict>
+		<key>NameCh</key>
+		<string>仙楂洛神</string>
+		<key>Name</key>
+		<string>Purple Plum Tea</string>
+		<key>Special</key>
+		<string>Fav</string>
+		<key>TeaType</key>
+		<string>Brewed Tea</string>
+		<key>Price</key>
+		<string>$2.20</string>
+		<key>Icon</key>
+		<string>PurplePlumTea.png</string>
+	</dict>
+	<dict>
+		<key>NameCh</key>
+		<string>冬瓜茶</string>
+		<key>Name</key>
+		<string>Melon Tea</string>
+		<key>Special</key>
+		<string>New</string>
+		<key>TeaType</key>
+		<string>Brewed Tea</string>
+		<key>Price</key>
+		<string>$2.20</string>
+		<key>Icon</key>
+		<string>TaiwanGreenTea.png</string>
+	</dict>
+	<dict>
+		<key>NameCh</key>
+		<string>金桔檸檬</string>
+		<key>Name</key>
+		<string>Lemon Kumquat Juice</string>
+		<key>TeaType</key>
+		<string>Juice</string>
+		<key>Hot</key>
+		<string>Hot.png</string>
+		<key>Special</key>
+		<string>Fav</string>
+		<key>Price</key>
+		<string>$2.20</string>
+		<key>Icon</key>
+		<string>LemonKumquat.png</string>
+	</dict>
+	<dict>
+		<key>NameCh</key>
+		<string>檸檬汁</string>
+		<key>Name</key>
+		<string>Lemon Juice</string>
+		<key>TeaType</key>
+		<string>Juice</string>
+		<key>Price</key>
+		<string>$2.20</string>
+		<key>Icon</key>
+		<string>LemonKumquat.png</string>
+	</dict>
+	<dict>
+		<key>NameCh</key>
+		<string>金桔汁</string>
+		<key>Name</key>
+		<string>Kumquat Juice</string>
+		<key>TeaType</key>
+		<string>Juice</string>
+		<key>Hot</key>
+		<string>Hot.png</string>
+		<key>Price</key>
+		<string>$2.20</string>
+		<key>Icon</key>
+		<string>LemonKumquat.png</string>
+	</dict>
+	<dict>
+		<key>NameCh</key>
+		<string>百香果汁</string>
+		<key>Name</key>
+		<string>Passion Fruit Juice</string>
+		<key>TeaType</key>
+		<string>Juice</string>
+		<key>Price</key>
+		<string>$2.20</string>
+		<key>Icon</key>
+		<string>PassionFruitOrPeach.png</string>
+	</dict>
+	<dict>
+		<key>NameCh</key>
+		<string>水蜜桃汁</string>
+		<key>Name</key>
+		<string>Peach Juice</string>
+		<key>TeaType</key>
+		<string>Juice</string>
+		<key>Price</key>
+		<string>$2.20</string>
+		<key>Icon</key>
+		<string>PassionFruitOrPeach.png</string>
+	</dict>
+	<dict>
+		<key>NameCh</key>
+		<string>梅子綠茶</string>
+		<key>Name</key>
+		<string>Plum Green Tea</string>
+		<key>TeaType</key>
+		<string>Creative Mix</string>
+		<key>Price</key>
+		<string>$2.50</string>
+		<key>Special</key>
+		<string>Fav</string>
+		<key>Icon</key>
+		<string>TaiwanGreenTea.png</string>
+	</dict>
+	<dict>
+		<key>NameCh</key>
+		<string>蜜桃綠茶</string>
+		<key>Name</key>
+		<string>Peach Green Tea</string>
+		<key>TeaType</key>
+		<string>Creative Mix</string>
+		<key>Price</key>
+		<string>$2.50</string>
+		<key>Icon</key>
+		<string>PeachGreenTea.png</string>
+	</dict>
+	<dict>
+		<key>NameCh</key>
+		<string>百香果綠茶</string>
+		<key>Name</key>
+		<string>Passion Fruit Green Tea</string>
+		<key>TeaType</key>
+		<string>Creative Mix</string>
+		<key>Special</key>
+		<string>Fav</string>
+		<key>Price</key>
+		<string>$2.50</string>
+		<key>Icon</key>
+		<string>PassionFruitOrPeach.png</string>
+	</dict>
+	<dict>
+		<key>NameCh</key>
+		<string>蜂蜜綠茶</string>
+		<key>Name</key>
+		<string>Honey Green Tea</string>
+		<key>TeaType</key>
+		<string>Creative Mix</string>
+		<key>Price</key>
+		<string>$2.50</string>
+		<key>Icon</key>
+		<string>TaiwanGreenTea.png</string>
+	</dict>
+	<dict>
+		<key>NameCh</key>
+		<string>檸檬冬瓜</string>
+		<key>Name</key>
+		<string>Lemon Roasted Melon Tea</string>
+		<key>TeaType</key>
+		<string>Creative Mix</string>
+		<key>Price</key>
+		<string>$2.50</string>
+		<key>Icon</key>
+		<string>LemonRoasted.png</string>
+	</dict>
+	<dict>
+		<key>NameCh</key>
+		<string>檸檬可爾必思</string>
+		<key>Name</key>
+		<string>Calpis Lemon Juice</string>
+		<key>TeaType</key>
+		<string>Creative Mix</string>
+		<key>Price</key>
+		<string>$2.90</string>
+		<key>Icon</key>
+		<string>PeachGreenTea.png</string>
+	</dict>
+	<dict>
+		<key>NameCh</key>
+		<string>绿茶可爾必思</string>
+		<key>Special</key>
+		<string>Fav</string>
+		<key>Name</key>
+		<string>Calpis Green Tea</string>
+		<key>TeaType</key>
+		<string>Creative Mix</string>
+		<key>Price</key>
+		<string>$2.90</string>
+		<key>Icon</key>
+		<string>PeachGreenTea.png</string>
+	</dict>
+	<dict>
+		<key>NameCh</key>
+		<string>梅子可爾必思</string>
+		<key>Name</key>
+		<string>Calpis Plum Juice</string>
+		<key>TeaType</key>
+		<string>Creative Mix</string>
+		<key>Price</key>
+		<string>$2.90</string>
+		<key>Icon</key>
+		<string>PeachGreenTea.png</string>
+	</dict>
+	<dict>
+		<key>NameCh</key>
+		<string>百香蒟蒻</string>
+		<key>Name</key>
+		<string>Passion Fruit Juice w CK Jelly</string>
+		<key>Special</key>
+		<string>Fav</string>
+		<key>TeaType</key>
+		<string>Creative Mix</string>
+		<key>Price</key>
+		<string>$2.90</string>
+		<key>Icon</key>
+		<string>KoreanKJ.png</string>
+	</dict>
+	<dict>
+		<key>NameCh</key>
+		<string>芋香奶</string>
+		<key>Name</key>
+		<string>Taro Milk</string>
+		<key>TeaType</key>
+		<string>Creative Mix</string>
+		<key>Special</key>
+		<string>Fav</string>
+		<key>Hot</key>
+		<string>Hot.png</string>
+		<key>Price</key>
+		<string>$2.90</string>
+		<key>Icon</key>
+		<string>oolongmilktea.png</string>
+	</dict>
+	<dict>
+		<key>NameCh</key>
+		<string>巧克力牛奶</string>
+		<key>Name</key>
+		<string>Chocolate Milk</string>
+		<key>TeaType</key>
+		<string>Creative Mix</string>
+		<key>Hot</key>
+		<string>Hot.png</string>
+		<key>Price</key>
+		<string>$2.90</string>
+		<key>Icon</key>
+		<string>IcedCoffeeOrGoldenOvaline.png</string>
+	</dict>
+	<dict>
+		<key>NameCh</key>
+		<string>黄金阿華田</string>
+		<key>Name</key>
+		<string>Golden Ovaltine</string>
+		<key>TeaType</key>
+		<string>Creative Mix</string>
+		<key>Special</key>
+		<string>Fav</string>
+		<key>Hot</key>
+		<string>Hot.png</string>
+		<key>Price</key>
+		<string>$2.90</string>
+		<key>Icon</key>
+		<string>ChocolateMilk.png</string>
+	</dict>
+	<dict>
+		<key>NameCh</key>
+		<string> 蒟蒻柚子茶</string>
+		<key>Name</key>
+		<string>Korean Citron Juice w K Jelly</string>
+		<key>Special</key>
+		<string>Fav</string>
+		<key>TeaType</key>
+		<string>Creative Mix</string>
+		<key>Price</key>
+		<string>$3.20</string>
+		<key>Icon</key>
+		<string>KoreanKJ.png</string>
+	</dict>
+	<dict>
+		<key>NameCh</key>
+		<string>韩式柚子茶</string>
+		<key>Name</key>
+		<string>Korean Citron Juice</string>
+		<key>Hot</key>
+		<string>Hot.png</string>
+		<key>TeaType</key>
+		<string>Creative Mix</string>
+		<key>Price</key>
+		<string>$2.70</string>
+		<key>Icon</key>
+		<string>PeachGreenTea.png</string>
+	</dict>
+	<dict>
+		<key>NameCh</key>
+		<string>草莓爱红茶</string>
+		<key>Name</key>
+		<string>Strawberry Black Tea w Ai-Yu Jelly</string>
+		<key>TeaType</key>
+		<string>Creative Mix</string>
+		<key>Special</key>
+		<string>New</string>
+		<key>Price</key>
+		<string>$3.20</string>
+		<key>Icon</key>
+		<string>LonganHoneyTea.png</string>
+	</dict>
+	<dict>
+		<key>NameCh</key>
+		<string>芒果爱绿茶</string>
+		<key>Name</key>
+		<string>Mango Green Tea w Ai-Yu Jelly</string>
+		<key>Special</key>
+		<string>New</string>
+		<key>TeaType</key>
+		<string>Creative Mix</string>
+		<key>Price</key>
+		<string>$3.20</string>
+		<key>Icon</key>
+		<string>LonganHoneyTea.png</string>
+	</dict>
+	<dict>
+		<key>NameCh</key>
+		<string>玄米抹茶红豆</string>
+		<key>Name</key>
+		<string>Matcha Milk w Azuki Bean</string>
+		<key>Special</key>
+		<string>Fav</string>
+		<key>TeaType</key>
+		<string>Creative Mix</string>
+		<key>Price</key>
+		<string>$3.90</string>
+		<key>Icon</key>
+		<string>MatchaMilk.png</string>
+	</dict>
+	<dict>
+		<key>NameCh</key>
+		<string>手工咖啡</string>
+		<key>Name</key>
+		<string>House Special Coffee</string>
+		<key>TeaType</key>
+		<string>Coffee</string>
+		<key>Hot</key>
+		<string>Hot.png</string>
+		<key>Special</key>
+		<string>Fav</string>
+		<key>Price</key>
+		<string>$3.50</string>
+		<key>Icon</key>
+		<string>IcedCoffeeOrGoldenOvaline.png</string>
+	</dict>
+	<dict>
+		<key>NameCh</key>
+		<string>焦糖咖啡</string>
+		<key>Name</key>
+		<string>Caramel Coffee</string>
+		<key>Hot</key>
+		<string>Hot.png</string>
+		<key>TeaType</key>
+		<string>Coffee</string>
+		<key>Price</key>
+		<string>$4.20</string>
+		<key>Icon</key>
+		<string>CaramelCoffee.png</string>
+	</dict>
+	<dict>
+		<key>NameCh</key>
+		<string>奶盖咖啡</string>
+		<key>Name</key>
+		<string>Gong Cha Milk Coffee</string>
+		<key>Hot</key>
+		<string>Hot.png</string>
+		<key>Special</key>
+		<string>New</string>
+		<key>TeaType</key>
+		<string>Coffee</string>
+		<key>Price</key>
+		<string>$4.10</string>
+		<key>Icon</key>
+		<string>GongChaMilkCoffee.png</string>
+	</dict>
+	<dict>
+		<key>NameCh</key>
+		<string>太妃咖啡</string>
+		<key>Name</key>
+		<string>Toffee Coffee</string>
+		<key>Special</key>
+		<string>New</string>
+		<key>TeaType</key>
+		<string>Coffee</string>
+		<key>Price</key>
+		<string>$4.20</string>
+		<key>Icon</key>
+		<string>IcedCoffeeOrGoldenOvaline.png</string>
+	</dict>
+	<dict>
+		<key>NameCh</key>
+		<string>仙查洛神爱玉</string>
+		<key>Name</key>
+		<string>Purple Plum Tea w Ai-Yu Jelly</string>
+		<key>TeaType</key>
+		<string>Health Tea</string>
+		<key>Special</key>
+		<string>Fav</string>
+		<key>Price</key>
+		<string>$2.80</string>
+		<key>Icon</key>
+		<string>PurplePlumTea.png</string>
+	</dict>
+	<dict>
+		<key>NameCh</key>
+		<string>檸檬芦荟</string>
+		<key>Name</key>
+		<string>Lemon Juice w Aloe Vera</string>
+		<key>TeaType</key>
+		<string>Health Tea</string>
+		<key>Price</key>
+		<string>$2.80</string>
+		<key>Icon</key>
+		<string>PeachGreenTea.png</string>
+	</dict>
+	<dict>
+		<key>NameCh</key>
+		<string>冬瓜黑糖冻</string>
+		<key>Name</key>
+		<string>Melon Tea w BC Jelly</string>
+		<key>TeaType</key>
+		<string>Health Tea</string>
+		<key>Price</key>
+		<string>$2.80</string>
+		<key>Icon</key>
+		<string>WinterMelon.png</string>
+	</dict>
+	<dict>
+		<key>NameCh</key>
+		<string>檸檬寒天爱玉</string>
+		<key>Name</key>
+		<string>Lemon Juice w White Pearl Ai-Yu Jelly</string>
+		<key>TeaType</key>
+		<string>Health Tea</string>
+		<key>Special</key>
+		<string>Fav</string>
+		<key>Price</key>
+		<string>$3.40</string>
+		<key>Icon</key>
+		<string>PeachGreenTea.png</string>
+	</dict>
+	<dict>
+		<key>NameCh</key>
+		<string>古早味酸梅汤</string>
+		<key>Name</key>
+		<string>Plum Tea</string>
+		<key>TeaType</key>
+		<string>Health Tea</string>
+		<key>Price</key>
+		<string>$2.50</string>
+		<key>Icon</key>
+		<string>PlumGreenTea.png</string>
+	</dict>
+	<dict>
+		<key>NameCh</key>
+		<string>桂圆红枣茶</string>
+		<key>Name</key>
+		<string>Longan Red Date Tea</string>
+		<key>TeaType</key>
+		<string>Health Tea</string>
+		<key>Hot</key>
+		<string>Hot.png</string>
+		<key>Price</key>
+		<string>$2.50</string>
+		<key>Icon</key>
+		<string>WinterGreenTea.png</string>
+	</dict>
+	<dict>
+		<key>NameCh</key>
+		<string>黑糖姜茶</string>
+		<key>Name</key>
+		<string>Ginger Tea</string>
+		<key>TeaType</key>
+		<string>Health Tea</string>
+		<key>Hot</key>
+		<string>Onlyhot.png</string>
+		<key>Special</key>
+		<string>Fav</string>
+		<key>Price</key>
+		<string>$2.50</string>
+		<key>Icon</key>
+		<string>WinterMelon.png</string>
+	</dict>
+	<dict>
+		<key>NameCh</key>
+		<string>檸檬茶</string>
+		<key>Name</key>
+		<string>Honey Lemon</string>
+		<key>Hot</key>
+		<string>Hot.png</string>
+		<key>TeaType</key>
+		<string>Health Tea</string>
+		<key>Price</key>
+		<string>$2.50</string>
+		<key>Icon</key>
+		<string>WinterGreenTea.png</string>
+	</dict>
+	<dict>
+		<key>NameCh</key>
+		<string>鲜奶红茶</string>
+		<key>Name</key>
+		<string>Fresh Milk Black Tea</string>
+		<key>TeaType</key>
+		<string>Fresh Milk</string>
+		<key>Price</key>
+		<string>$2.90</string>
+		<key>Hot</key>
+		<string>Hot.png</string>
+		<key>Icon</key>
+		<string>FreshMilkGreenTea.png</string>
+	</dict>
+	<dict>
+		<key>NameCh</key>
+		<string>鲜奶绿茶</string>
+		<key>Name</key>
+		<string>Fresh Milk Green Tea</string>
+		<key>Special</key>
+		<string>Fav</string>
+		<key>Hot</key>
+		<string>Hot.png</string>
+		<key>TeaType</key>
+		<string>Fresh Milk</string>
+		<key>Price</key>
+		<string>$2.90</string>
+		<key>Icon</key>
+		<string>FreshMilkGreenTea.png</string>
+	</dict>
+	<dict>
+		<key>NameCh</key>
+		<string>鲜奶冬瓜茶</string>
+		<key>Name</key>
+		<string>Fresh Milk Melon Tea</string>
+		<key>TeaType</key>
+		<string>Fresh Milk</string>
+		<key>Price</key>
+		<string>$3.20</string>
+		<key>Icon</key>
+		<string>freshmilkmelon.png</string>
+	</dict>
+	<dict>
+		<key>NameCh</key>
+		<string>鲜奶仙草冻</string>
+		<key>Name</key>
+		<string>Fresh Milk Herbal Jelly</string>
+		<key>Special</key>
+		<string>Fav</string>
+		<key>TeaType</key>
+		<string>Fresh Milk</string>
+		<key>Price</key>
+		<string>$3.40</string>
+		<key>Icon</key>
+		<string>FreshMilkJelly.png</string>
+	</dict>
+	<dict>
+		<key>NameCh</key>
+		<string>蜂蜜鲜奶茶</string>
+		<key>Name</key>
+		<string>Honey Freshmilk Tea</string>
+		<key>Special</key>
+		<string>New</string>
+		<key>TeaType</key>
+		<string>Fresh Milk</string>
+		<key>Price</key>
+		<string>$3.20</string>
+		<key>Icon</key>
+		<string>freshmilkmelon.png</string>
+	</dict>
+	<dict>
+		<key>NameCh</key>
+		<string>台农奶茶</string>
+		<key>Name</key>
+		<string>Milk Tea</string>
+		<key>TeaType</key>
+		<string>Milk Tea</string>
+		<key>Price</key>
+		<string>$2.20</string>
+		<key>Hot</key>
+		<string>Hot.png</string>
+		<key>Icon</key>
+		<string>oolongmilktea.png</string>
+	</dict>
+	<dict>
+		<key>NameCh</key>
+		<string>奶香绿茶</string>
+		<key>Name</key>
+		<string>Milk Green Tea</string>
+		<key>Hot</key>
+		<string>Hot.png</string>
+		<key>TeaType</key>
+		<string>Milk Tea</string>
+		<key>Price</key>
+		<string>$2.20</string>
+		<key>Icon</key>
+		<string>oolongmilktea.png</string>
+	</dict>
+	<dict>
+		<key>NameCh</key>
+		<string>乌龙奶茶</string>
+		<key>Name</key>
+		<string>Milk Oolong Tea</string>
+		<key>Hot</key>
+		<string>Hot.png</string>
+		<key>TeaType</key>
+		<string>Milk Tea</string>
+		<key>Special</key>
+		<string>Fav</string>
+		<key>Price</key>
+		<string>$2.20</string>
+		<key>Icon</key>
+		<string>oolongmilktea.png</string>
+	</dict>
+	<dict>
+		<key>NameCh</key>
+		<string>珍珠奶茶</string>
+		<key>Name</key>
+		<string>Milk Tea w Pearl</string>
+		<key>Hot</key>
+		<string>Hot.png</string>
+		<key>TeaType</key>
+		<string>Milk Tea</string>
+		<key>Price</key>
+		<string>$2.50</string>
+		<key>Icon</key>
+		<string>BubbleMilktea.png</string>
+	</dict>
+	<dict>
+		<key>NameCh</key>
+		<string>仙草奶冻</string>
+		<key>Name</key>
+		<string>Milk Tea w Herbal Jelly</string>
+		<key>TeaType</key>
+		<string>Milk Tea</string>
+		<key>Special</key>
+		<string>Fav</string>
+		<key>Price</key>
+		<string>$2.80</string>
+		<key>Icon</key>
+		<string>grassjelly.png</string>
+	</dict>
+	<dict>
+		<key>NameCh</key>
+		<string>焦糖奶茶</string>
+		<key>Name</key>
+		<string>Caramel Milk Tea</string>
+		<key>TeaType</key>
+		<string>Milk Tea</string>
+		<key>Hot</key>
+		<string>Hot.png</string>
+		<key>Price</key>
+		<string>$2.90</string>
+		<key>Icon</key>
+		<string>taifeimilktea.png</string>
+	</dict>
+	<dict>
+		<key>NameCh</key>
+		<string>蜂蜜奶茶</string>
+		<key>Special</key>
+		<string>Fav</string>
+		<key>Name</key>
+		<string>Honey Milk Tea</string>
+		<key>TeaType</key>
+		<string>Milk Tea</string>
+		<key>Price</key>
+		<string>$2.90</string>
+		<key>Icon</key>
+		<string>taifeimilktea.png</string>
+	</dict>
+	<dict>
+		<key>NameCh</key>
+		<string>太妃奶茶</string>
+		<key>Name</key>
+		<string>Toffee Milk Tea</string>
+		<key>TeaType</key>
+		<string>Milk Tea</string>
+		<key>Special</key>
+		<string>New</string>
+		<key>Price</key>
+		<string>$2.90</string>
+		<key>Icon</key>
+		<string>taifeimilktea.png</string>
+	</dict>
+	<dict>
+		<key>NameCh</key>
+		<string>黑糖姜汁奶茶</string>
+		<key>Name</key>
+		<string>Ginger Milk Tea</string>
+		<key>Special</key>
+		<string>Fav</string>
+		<key>TeaType</key>
+		<string>Milk Tea</string>
+		<key>Price</key>
+		<string>$2.90</string>
+		<key>Icon</key>
+		<string>freshmilkmelon.png</string>
+	</dict>
+	<dict>
+		<key>NameCh</key>
+		<string>桂圆红枣奶茶</string>
+		<key>Name</key>
+		<string>Longan Red Date Milk Tea</string>
+		<key>TeaType</key>
+		<string>Milk Tea</string>
+		<key>Price</key>
+		<string>$2.90</string>
+		<key>Icon</key>
+		<string>taifeimilktea.png</string>
+	</dict>
+	<dict>
+		<key>NameCh</key>
+		<string>格雷奶茶</string>
+		<key>Name</key>
+		<string>Earl Grey Milk Tea</string>
+		<key>TeaType</key>
+		<string>Milk Tea</string>
+		<key>Price</key>
+		<string>$2.40</string>
+		<key>Hot</key>
+		<string>Hot.png</string>
+		<key>Icon</key>
+		<string>freshmilkmelon.png</string>
+	</dict>
+	<dict>
+		<key>NameCh</key>
+		<string>格雷三兄弟奶茶</string>
+		<key>Name</key>
+		<string>Earl Grey Milk Tea w 3JS</string>
+		<key>TeaType</key>
+		<string>Milk Tea</string>
+		<key>Price</key>
+		<string>$3.60</string>
+		<key>Icon</key>
+		<string>freshmilkmelon.png</string>
+	</dict>
+</array>
+</plist>

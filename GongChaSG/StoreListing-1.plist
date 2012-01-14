@@ -1,0 +1,566 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>Address</key>
+		<string>2 Orchard Link</string>
+		<key>Location</key>
+		<string>CENTRAL</string>
+		<key>Operational Hours</key>
+		<string>12nn-11pm</string>
+		<key>Outlet</key>
+		<string>*Scape</string>
+		<key>Tel No</key>
+		<string>65090907</string>
+		<key>Unit</key>
+		<string>#02-39</string>
+	</dict>
+	<dict>
+		<key>Address</key>
+		<string>313 Orchard Road</string>
+		<key>Location</key>
+		<string>CENTRAL</string>
+		<key>Operational Hours</key>
+		<string>11am-10pm</string>
+		<key>Outlet</key>
+		<string>313@Somerset </string>
+		<key>Tel No</key>
+		<string>66367756</string>
+		<key>Unit</key>
+		<string>#01-37</string>
+	</dict>
+	<dict>
+		<key>Address</key>
+		<string>460 Alexandra Road</string>
+		<key>Location</key>
+		<string>CENTRAL</string>
+		<key>Operational Hours</key>
+		<string>9am-9pm</string>
+		<key>Outlet</key>
+		<string>Alexandra Retail Centre</string>
+		<key>Tel No</key>
+		<string>62720211</string>
+		<key>Unit</key>
+		<string>#01-10</string>
+	</dict>
+	<dict>
+		<key>Address</key>
+		<string>Blk 165, Bukit Merah Central</string>
+		<key>Location</key>
+		<string>CENTRAL</string>
+		<key>Operational Hours</key>
+		<string>11am-10pm, Closed on Sun &amp; PH</string>
+		<key>Outlet</key>
+		<string>Bukit Merah Central</string>
+		<key>Tel No</key>
+		<string>62788913</string>
+		<key>Unit</key>
+		<string>#01-3661</string>
+	</dict>
+	<dict>
+		<key>Address</key>
+		<string>175 Bencoolen Street </string>
+		<key>Location</key>
+		<string>CENTRAL</string>
+		<key>Operational Hours</key>
+		<string>11am-10pm</string>
+		<key>Outlet</key>
+		<string>Burlington Square </string>
+		<key>Tel No</key>
+		<string>68848933</string>
+		<key>Unit</key>
+		<string>#01-53</string>
+	</dict>
+	<dict>
+		<key>Address</key>
+		<string>18 Cross Street</string>
+		<key>Location</key>
+		<string>CENTRAL</string>
+		<key>Operational Hours</key>
+		<string>Mon-Fri 10am-9pm, Sat 10am-6pm, Closed on Sun &amp; PH</string>
+		<key>Outlet</key>
+		<string>China Square Central </string>
+		<key>Tel No</key>
+		<string>64387121</string>
+		<key>Unit</key>
+		<string>#01-56</string>
+	</dict>
+	<dict>
+		<key>Address</key>
+		<string>180 Kitchener Road </string>
+		<key>Location</key>
+		<string>CENTRAL</string>
+		<key>Operational Hours</key>
+		<string>11am-10pm</string>
+		<key>Outlet</key>
+		<string>City Square Mall </string>
+		<key>Tel No</key>
+		<string>65093803</string>
+		<key>Unit</key>
+		<string>#B2-K3/4</string>
+	</dict>
+	<dict>
+		<key>Address</key>
+		<string>161 Goldhill, Thomson Road </string>
+		<key>Location</key>
+		<string>CENTRAL</string>
+		<key>Operational Hours</key>
+		<string>11am-10pm</string>
+		<key>Outlet</key>
+		<string>Goldhill Centre </string>
+		<key>Tel No</key>
+		<string>62596138</string>
+		<key>Unit</key>
+		<string>#161</string>
+	</dict>
+	<dict>
+		<key>Address</key>
+		<string>10 Anson Road </string>
+		<key>Location</key>
+		<string>CENTRAL</string>
+		<key>Operational Hours</key>
+		<string>Mon-Sat &amp; eve of PH 10am-9pm, Closed on Sun &amp; PH</string>
+		<key>Outlet</key>
+		<string>International Plaza </string>
+		<key>Tel No</key>
+		<string>62214338</string>
+		<key>Unit</key>
+		<string>#1-36</string>
+	</dict>
+	<dict>
+		<key>Address</key>
+		<string>181 Orchard Road </string>
+		<key>Location</key>
+		<string>CENTRAL</string>
+		<key>Operational Hours</key>
+		<string>11am-10pm</string>
+		<key>Outlet</key>
+		<string>Orchard Central </string>
+		<key>Tel No</key>
+		<string>62387368</string>
+		<key>Unit</key>
+		<string>#B1-02</string>
+	</dict>
+	<dict>
+		<key>Address</key>
+		<string>150 Orchard Road </string>
+		<key>Location</key>
+		<string>CENTRAL</string>
+		<key>Operational Hours</key>
+		<string>12nn-11pm</string>
+		<key>Outlet</key>
+		<string>Orchard Plaza </string>
+		<key>Tel No</key>
+		<string>67338069</string>
+		<key>Unit</key>
+		<string>#01-50</string>
+	</dict>
+	<dict>
+		<key>Address</key>
+		<string>290 Orchard Road</string>
+		<key>Location</key>
+		<string>CENTRAL</string>
+		<key>Operational Hours</key>
+		<string></string>
+		<key>Outlet</key>
+		<string>Paragon</string>
+		<key>Tel No</key>
+		<string>Opening Soon!</string>
+		<key>Unit</key>
+		<string>#B1-39/40</string>
+	</dict>
+	<dict>
+		<key>Address</key>
+		<string>68 Orchard Road </string>
+		<key>Location</key>
+		<string>CENTRAL</string>
+		<key>Operational Hours</key>
+		<string>11am-10pm</string>
+		<key>Outlet</key>
+		<string>Plaza Singapura </string>
+		<key>Tel No</key>
+		<string>63364603</string>
+		<key>Unit</key>
+		<string>#01-K1</string>
+	</dict>
+	<dict>
+		<key>Address</key>
+		<string>252 North Bridge Road </string>
+		<key>Location</key>
+		<string>CENTRAL</string>
+		<key>Operational Hours</key>
+		<string>11am-10pm</string>
+		<key>Outlet</key>
+		<string>Raffles City SC </string>
+		<key>Tel No</key>
+		<string>63369282</string>
+		<key>Unit</key>
+		<string>#B1-71</string>
+	</dict>
+	<dict>
+		<key>Address</key>
+		<string>10 Sinaran Drive </string>
+		<key>Location</key>
+		<string>CENTRAL</string>
+		<key>Operational Hours</key>
+		<string>11am-10pm</string>
+		<key>Outlet</key>
+		<string>Square 2</string>
+		<key>Tel No</key>
+		<string>63976816</string>
+		<key>Unit</key>
+		<string>#01-172</string>
+	</dict>
+	<dict>
+		<key>Address</key>
+		<string>3 Temasek Boulevard</string>
+		<key>Location</key>
+		<string>CENTRAL</string>
+		<key>Operational Hours</key>
+		<string>11am-10pm</string>
+		<key>Outlet</key>
+		<string>Suntec City Mall </string>
+		<key>Tel No</key>
+		<string>63366009</string>
+		<key>Unit</key>
+		<string>#B1-24</string>
+	</dict>
+	<dict>
+		<key>Address</key>
+		<string>2 Hardy Road </string>
+		<key>Location</key>
+		<string>CENTRAL</string>
+		<key>Operational Hours</key>
+		<string>11am-10pm</string>
+		<key>Outlet</key>
+		<string>The Cathay </string>
+		<key>Tel No</key>
+		<string>62350029</string>
+		<key>Unit</key>
+		<string>#04-12</string>
+	</dict>
+	<dict>
+		<key>Address</key>
+		<string>6 Eu Tong Seng Street </string>
+		<key>Location</key>
+		<string>CENTRAL</string>
+		<key>Operational Hours</key>
+		<string>11am-10pm</string>
+		<key>Outlet</key>
+		<string>The Central </string>
+		<key>Tel No</key>
+		<string>62222627</string>
+		<key>Unit</key>
+		<string>#B1-15/16</string>
+	</dict>
+	<dict>
+		<key>Address</key>
+		<string>2 Bayfront Avenue</string>
+		<key>Location</key>
+		<string>CENTRAL</string>
+		<key>Operational Hours</key>
+		<string>Sun-Thurs 10am-11pm, Fri &amp; Sat (10am-12mn)</string>
+		<key>Outlet</key>
+		<string>The Shoppes at Marina Bay Sands </string>
+		<key>Tel No</key>
+		<string>66887431</string>
+		<key>Unit</key>
+		<string>#01-72</string>
+	</dict>
+	<dict>
+		<key>Address</key>
+		<string>1 Harbour Front Walk </string>
+		<key>Location</key>
+		<string>CENTRAL</string>
+		<key>Operational Hours</key>
+		<string>11am-10pm</string>
+		<key>Outlet</key>
+		<string>VivoCity </string>
+		<key>Tel No</key>
+		<string>63769363</string>
+		<key>Unit</key>
+		<string>#01-111</string>
+	</dict>
+	<dict>
+		<key>Address</key>
+		<string>112 East Coast Rd</string>
+		<key>Location</key>
+		<string>EAST</string>
+		<key>Operational Hours</key>
+		<string>11am-10pm</string>
+		<key>Outlet</key>
+		<string>I12 Katong </string>
+		<key>Tel No</key>
+		<string>66363948</string>
+		<key>Unit</key>
+		<string>#B1-19</string>
+	</dict>
+	<dict>
+		<key>Address</key>
+		<string>799 New Upper Changi Road </string>
+		<key>Location</key>
+		<string>EAST</string>
+		<key>Operational Hours</key>
+		<string>11am-10pm</string>
+		<key>Outlet</key>
+		<string>Bedok Point </string>
+		<key>Tel No</key>
+		<string>64410019</string>
+		<key>Unit</key>
+		<string>#02-30</string>
+	</dict>
+	<dict>
+		<key>Address</key>
+		<string>3 Simei Street 3 </string>
+		<key>Location</key>
+		<string>EAST</string>
+		<key>Operational Hours</key>
+		<string>11am-10pm</string>
+		<key>Outlet</key>
+		<string>Eastpoint Mall </string>
+		<key>Tel No</key>
+		<string>67893089</string>
+		<key>Unit</key>
+		<string>#01-34</string>
+	</dict>
+	<dict>
+		<key>Address</key>
+		<string>10 Eunos Road 8</string>
+		<key>Location</key>
+		<string>EAST</string>
+		<key>Operational Hours</key>
+		<string>11am-10pm</string>
+		<key>Outlet</key>
+		<string>Singapore Post Centre </string>
+		<key>Tel No</key>
+		<string>67425236</string>
+		<key>Unit</key>
+		<string>#02-06A</string>
+	</dict>
+	<dict>
+		<key>Address</key>
+		<string>20 Tampines Central 1 </string>
+		<key>Location</key>
+		<string>EAST</string>
+		<key>Operational Hours</key>
+		<string>11am-10pm</string>
+		<key>Outlet</key>
+		<string>Tampines MRT </string>
+		<key>Tel No</key>
+		<string>67861773</string>
+		<key>Unit</key>
+		<string>#01-24</string>
+	</dict>
+	<dict>
+		<key>Address</key>
+		<string>1 Seletar Road</string>
+		<key>Location</key>
+		<string>NORTH</string>
+		<key>Operational Hours</key>
+		<string></string>
+		<key>Outlet</key>
+		<string>Greenwich V </string>
+		<key>Tel No</key>
+		<string>Opening Soon!</string>
+		<key>Unit</key>
+		<string>#01-20</string>
+	</dict>
+	<dict>
+		<key>Address</key>
+		<string>61 Ang Mo Kio Ave 8 </string>
+		<key>Location</key>
+		<string>NORTH</string>
+		<key>Operational Hours</key>
+		<string>11am-10pm</string>
+		<key>Outlet</key>
+		<string>Julibee Entertainment Complex </string>
+		<key>Tel No</key>
+		<string>64566476</string>
+		<key>Unit</key>
+		<string>#01-14</string>
+	</dict>
+	<dict>
+		<key>Address</key>
+		<string>9 Bishan Place </string>
+		<key>Location</key>
+		<string>NORTH</string>
+		<key>Operational Hours</key>
+		<string>11am-10pm</string>
+		<key>Outlet</key>
+		<string>Junction 8 SC </string>
+		<key>Tel No</key>
+		<string>62599938</string>
+		<key>Unit</key>
+		<string>#02-18A</string>
+	</dict>
+	<dict>
+		<key>Address</key>
+		<string>23 Serangoon Central </string>
+		<key>Location</key>
+		<string>NORTH</string>
+		<key>Operational Hours</key>
+		<string>11am-10pm</string>
+		<key>Outlet</key>
+		<string>NEX Serangoon, @ MOF</string>
+		<key>Tel No</key>
+		<string>66368198</string>
+		<key>Unit</key>
+		<string>#02-04</string>
+	</dict>
+	<dict>
+		<key>Address</key>
+		<string>604 Sembawang Rd</string>
+		<key>Location</key>
+		<string>NORTH</string>
+		<key>Operational Hours</key>
+		<string>11am-10pm</string>
+		<key>Outlet</key>
+		<string>Sembawang SC </string>
+		<key>Tel No</key>
+		<string>68530971</string>
+		<key>Unit</key>
+		<string>#B1-17</string>
+	</dict>
+	<dict>
+		<key>Address</key>
+		<string>30 Sembawang Drive </string>
+		<key>Location</key>
+		<string>NORTH</string>
+		<key>Operational Hours</key>
+		<string>11am-10pm</string>
+		<key>Outlet</key>
+		<string>Sun Plaza</string>
+		<key>Tel No</key>
+		<string>64818813</string>
+		<key>Unit</key>
+		<string>#B1-16</string>
+	</dict>
+	<dict>
+		<key>Address</key>
+		<string>301 Upper Thomson Road</string>
+		<key>Location</key>
+		<string>NORTH</string>
+		<key>Operational Hours</key>
+		<string>11am-10pm</string>
+		<key>Outlet</key>
+		<string>Thomson Plaza</string>
+		<key>Tel No</key>
+		<string>64577009</string>
+		<key>Unit</key>
+		<string>#01-104</string>
+	</dict>
+	<dict>
+		<key>Address</key>
+		<string>10 Bukit Batok Central</string>
+		<key>Location</key>
+		<string>WEST</string>
+		<key>Operational Hours</key>
+		<string>11am-10pm</string>
+		<key>Outlet</key>
+		<string>Bukit Batok MRT Station </string>
+		<key>Tel No</key>
+		<string>65615766</string>
+		<key>Unit</key>
+		<string>#01-07</string>
+	</dict>
+	<dict>
+		<key>Address</key>
+		<string>802 Bukit Batok West Avenue 5</string>
+		<key>Location</key>
+		<string>WEST</string>
+		<key>Operational Hours</key>
+		<string>11am-10pm</string>
+		<key>Outlet</key>
+		<string>Bukit Gombak MRT Station </string>
+		<key>Tel No</key>
+		<string>6560 9139</string>
+		<key>Unit</key>
+		<string>#01-01</string>
+	</dict>
+	<dict>
+		<key>Address</key>
+		<string>1 Jelebu Road </string>
+		<key>Location</key>
+		<string>WEST</string>
+		<key>Operational Hours</key>
+		<string>11am-10pm</string>
+		<key>Outlet</key>
+		<string>Bukit Panjang Plaza </string>
+		<key>Tel No</key>
+		<string>67631470</string>
+		<key>Unit</key>
+		<string>#01-21</string>
+	</dict>
+	<dict>
+		<key>Address</key>
+		<string>1 Woodlands Road</string>
+		<key>Location</key>
+		<string>WEST</string>
+		<key>Operational Hours</key>
+		<string></string>
+		<key>Outlet</key>
+		<string>Junction 10 </string>
+		<key>Tel No</key>
+		<string>Opening Soon!</string>
+		<key>Unit</key>
+		<string>#01-26</string>
+	</dict>
+	<dict>
+		<key>Address</key>
+		<string>21 Choa Chu Kang Ave 4 </string>
+		<key>Location</key>
+		<string>WEST</string>
+		<key>Operational Hours</key>
+		<string>11am-10pm</string>
+		<key>Outlet</key>
+		<string>Lot One Shoppers&apos; Mall </string>
+		<key>Tel No</key>
+		<string>64648896</string>
+		<key>Unit</key>
+		<string>B1-K30</string>
+	</dict>
+	<dict>
+		<key>Address</key>
+		<string>1 Bukit Batok Central Link</string>
+		<key>Location</key>
+		<string>WEST</string>
+		<key>Operational Hours</key>
+		<string>11am-10pm</string>
+		<key>Outlet</key>
+		<string>West Mall </string>
+		<key>Tel No</key>
+		<string>68625895</string>
+		<key>Unit</key>
+		<string>#B1-04/04A</string>
+	</dict>
+	<dict>
+		<key>Address</key>
+		<string>154 West Coast Road</string>
+		<key>Location</key>
+		<string>WEST</string>
+		<key>Operational Hours</key>
+		<string></string>
+		<key>Outlet</key>
+		<string>West Coast Plaza</string>
+		<key>Tel No</key>
+		<string>Opening Soon!</string>
+		<key>Unit</key>
+		<string>#B1-57</string>
+	</dict>
+	<dict>
+		<key>Address</key>
+		<string>21 Choa Chu Kang North 6</string>
+		<key>Location</key>
+		<string>WEST</string>
+		<key>Operational Hours</key>
+		<string>11am-10pm</string>
+		<key>Outlet</key>
+		<string>Yew Tee Point </string>
+		<key>Tel No</key>
+		<string>67630064</string>
+		<key>Unit</key>
+		<string>#01-49/50</string>
+	</dict>
+</array>
+</plist>
