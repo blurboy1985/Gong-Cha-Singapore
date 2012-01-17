@@ -3,7 +3,9 @@
 #import "GongChaSGAppDelegate.h"
 #import "UAirship.h"
 #import "UAPush.h"
-
+#import "UAInbox.h"
+#import "UAInboxUI.h"
+#import "NewsViewController.h"
 
 @implementation GongChaSGAppDelegate
 
@@ -62,9 +64,7 @@
     [self.window makeKeyAndVisible];
     
     BOOL isIOS5 = [[[UIDevice currentDevice] systemVersion] floatValue] > 4.4;
-    if (isIOS5) {
-        [self customizeAppearance];
-    }
+    if (isIOS5) [self customizeAppearance];
     
     //Init Airship launch options
     NSMutableDictionary *takeOffOptions = [[[NSMutableDictionary alloc] init] autorelease];
@@ -73,22 +73,35 @@
     // Create Airship singleton that's used to talk to Urban Airship servers.
     // Please replace these with your info from http://go.urbanairship.com
     [UAirship takeOff:takeOffOptions];
-    
-    [[UAPush shared] resetBadge];//zero badge on startup
-    
+        
     // Register for notifications through UAPush for notification type tracking
-    [[UAPush shared] registerForRemoteNotificationTypes:(UIRemoteNotificationTypeBadge |
+    [[UIApplication sharedApplication] registerForRemoteNotificationTypes:(UIRemoteNotificationTypeBadge |
                                                          UIRemoteNotificationTypeSound |
                                                          UIRemoteNotificationTypeAlert)];
     
-    return YES;
+    //Init the Rich Push UI
+    [UAInbox useCustomUI:[UAInboxUI class]];
+    [UAInbox shared].pushHandler.delegate = [UAInboxUI shared];
+    
+ 
+    // If the application gets an UAInbox message id on launch open it up immediately.
+    // Only works for the default inbox    
+    [UAInboxUI shared].inboxParentController = self.tabBarController;
+    [UAInboxUI shared].useOverlay = YES;
+    
+    [UAInboxPushHandler handleLaunchOptions:launchOptions];
+    
+    if ([[UAInbox shared].pushHandler hasLaunchMessage]) {
+        [[[UAInbox shared] uiClass] loadLaunchMessage];
+    }
+    
+    return NO;
 }
 
 - (void)application:(UIApplication *)application didReceiveRemoteNotification:(NSDictionary *)userInfo {
     UALOG(@"Received remote notification: %@", userInfo);
     
-    [[UAPush shared] handleNotification:userInfo applicationState:application.applicationState];
-    [[UAPush shared] resetBadge]; // zero badge after push received
+    [UAInboxPushHandler handleNotification:userInfo];
 }
 
 -(void)application:(UIApplication *)application didRegisterForRemoteNotificationsWithDeviceToken:(NSData *)deviceToken

@@ -9,6 +9,7 @@
 #import "GongChaSGAppDelegate.h"
 #import "NewsViewController.h"
 #import <QuartzCore/QuartzCore.h>
+#import "UAInbox.h"
 
 @implementation NewsViewController
 
@@ -33,12 +34,26 @@
     // Release any cached data, images, etc that aren't in use.
 }
 
+- (IBAction)inboxPressed:(id)sender 
+{
+    [UAInbox displayInbox:self animated:YES];   
+}
+
 #pragma mark - View lifecycle
 
 - (void)viewDidLoad
 {
     [super viewDidLoad];
     
+    UIImage *imageButton = [UIImage imageNamed:@"inbox_button.jpg"];
+   	UIButton *inboxButton = [UIButton buttonWithType:UIButtonTypeCustom];
+    inboxButton.bounds = CGRectMake(0, 0, 43.0, 40.0);
+    [inboxButton setImage:imageButton forState:UIControlStateNormal];
+	[inboxButton addTarget:self action:@selector(inbox:) forControlEvents:UIControlEventTouchUpInside];
+	UIBarButtonItem* barButton = [[UIBarButtonItem alloc] initWithCustomView:inboxButton];
+    self.navigationItem.rightBarButtonItem = barButton;
+    
+    [inboxButton release];
     
     self.view.backgroundColor = [UIColor clearColor];
     

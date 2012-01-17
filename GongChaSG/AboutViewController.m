@@ -1,16 +1,14 @@
 //
-//  SettingsViewController.m
+//  AboutViewController.m
 //  GongChaSG
 //
-//  Created by Daniel Quek on 14/1/12.
+//  Created by Daniel Quek on 15/1/12.
 //  Copyright (c) 2012 Cellcity. All rights reserved.
 //
 
-#import "SettingsViewController.h"
-#import "UAPush.h"
-#import "UAirship.h"
+#import "AboutViewController.h"
 
-@implementation SettingsViewController
+@implementation AboutViewController
 
 - (id)initWithNibName:(NSString *)nibNameOrNil bundle:(NSBundle *)nibBundleOrNil
 {
@@ -34,8 +32,7 @@
 - (void)viewDidLoad
 {
     [super viewDidLoad];
-    
-    [UAPush openApnsSettings:self animated:YES];
+    // Do any additional setup after loading the view from its nib.
 }
 
 - (void)viewDidUnload

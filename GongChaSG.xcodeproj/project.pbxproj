@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		840316C814C2ACD80006A972 /* inbox_button.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 840316C714C2ACD80006A972 /* inbox_button.jpg */; };
 		84039DA5140C83540060806D /* Default@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 84039DA4140C83540060806D /* Default@2x.png */; };
 		84039DA8140C83A30060806D /* Default.png in Resources */ = {isa = PBXBuildFile; fileRef = 84039DA7140C83A30060806D /* Default.png */; };
 		84039DAB140C87B80060806D /* WinterMelon.png in Resources */ = {isa = PBXBuildFile; fileRef = 84039DA9140C87B80060806D /* WinterMelon.png */; };
@@ -41,8 +42,6 @@
 		8429281C13FBCCD700EE3BA7 /* CoreDataFavourites.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 8429281A13FBCCD700EE3BA7 /* CoreDataFavourites.xcdatamodeld */; };
 		84335F4F1406603A009F47EC /* FavouritesDetailView.m in Sources */ = {isa = PBXBuildFile; fileRef = 84335F4D14066039009F47EC /* FavouritesDetailView.m */; };
 		84335F501406603A009F47EC /* FavouritesDetailView.xib in Resources */ = {isa = PBXBuildFile; fileRef = 84335F4E14066039009F47EC /* FavouritesDetailView.xib */; };
-		8448135B14C1C4DC006987D8 /* SettingsViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8448135914C1C4DC006987D8 /* SettingsViewController.m */; };
-		8448135C14C1C4DC006987D8 /* SettingsViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 8448135A14C1C4DC006987D8 /* SettingsViewController.xib */; };
 		84623E74140CBEEA00693A8F /* navbar3.png in Resources */ = {isa = PBXBuildFile; fileRef = 84623E73140CBEEA00693A8F /* navbar3.png */; };
 		8468D12D13F4060C0021DBBA /* CoreLocation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8468D12C13F4060C0021DBBA /* CoreLocation.framework */; };
 		847609CB1402BA8C0052FD33 /* FavouritesTableView.m in Sources */ = {isa = PBXBuildFile; fileRef = 847609C91402BA8C0052FD33 /* FavouritesTableView.m */; };
@@ -63,6 +62,8 @@
 		8480BE1D1411036800A2E660 /* FavouritesCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 8480BE1B1411036800A2E660 /* FavouritesCell.m */; };
 		8480BE1E1411036800A2E660 /* FavouritesCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 8480BE1C1411036800A2E660 /* FavouritesCell.xib */; };
 		8480BE2214111A7500A2E660 /* IndividualFavCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 8480BE2114111A7500A2E660 /* IndividualFavCell.m */; };
+		8481ADEE14C27CF400CBC272 /* AboutViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8481ADEC14C27CF400CBC272 /* AboutViewController.m */; };
+		8481ADEF14C27CF400CBC272 /* AboutViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 8481ADED14C27CF400CBC272 /* AboutViewController.xib */; };
 		84833D15147BE21B00EEF647 /* SHKOAuthSharer.m in Sources */ = {isa = PBXBuildFile; fileRef = 84833C7B147BE21B00EEF647 /* SHKOAuthSharer.m */; };
 		84833D16147BE21B00EEF647 /* SHKSharer.m in Sources */ = {isa = PBXBuildFile; fileRef = 84833C7D147BE21B00EEF647 /* SHKSharer.m */; };
 		84833D17147BE21B00EEF647 /* UIWebView+SHK.m in Sources */ = {isa = PBXBuildFile; fileRef = 84833C80147BE21B00EEF647 /* UIWebView+SHK.m */; };
@@ -309,6 +310,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		840316C714C2ACD80006A972 /* inbox_button.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = inbox_button.jpg; sourceTree = "<group>"; };
 		84039DA4140C83540060806D /* Default@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default@2x.png"; sourceTree = "<group>"; };
 		84039DA7140C83A30060806D /* Default.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Default.png; sourceTree = "<group>"; };
 		84039DA9140C87B80060806D /* WinterMelon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = WinterMelon.png; sourceTree = "<group>"; };
@@ -351,9 +353,6 @@
 		8444AF9A1410C6CB005E7733 /* MessageUI.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MessageUI.framework; path = System/Library/Frameworks/MessageUI.framework; sourceTree = SDKROOT; };
 		8444AF9C1410C6CB005E7733 /* Security.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Security.framework; path = System/Library/Frameworks/Security.framework; sourceTree = SDKROOT; };
 		8444AF9E1410C6CB005E7733 /* SystemConfiguration.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SystemConfiguration.framework; path = System/Library/Frameworks/SystemConfiguration.framework; sourceTree = SDKROOT; };
-		8448135814C1C4DC006987D8 /* SettingsViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SettingsViewController.h; sourceTree = "<group>"; };
-		8448135914C1C4DC006987D8 /* SettingsViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SettingsViewController.m; sourceTree = "<group>"; };
-		8448135A14C1C4DC006987D8 /* SettingsViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = SettingsViewController.xib; sourceTree = "<group>"; };
 		84623E73140CBEEA00693A8F /* navbar3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = navbar3.png; sourceTree = "<group>"; };
 		8468D12C13F4060C0021DBBA /* CoreLocation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreLocation.framework; path = System/Library/Frameworks/CoreLocation.framework; sourceTree = SDKROOT; };
 		847609C81402BA8C0052FD33 /* FavouritesTableView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FavouritesTableView.h; sourceTree = "<group>"; };
@@ -377,6 +376,9 @@
 		8480BE1C1411036800A2E660 /* FavouritesCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = FavouritesCell.xib; sourceTree = "<group>"; };
 		8480BE2014111A7500A2E660 /* IndividualFavCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = IndividualFavCell.h; sourceTree = "<group>"; };
 		8480BE2114111A7500A2E660 /* IndividualFavCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = IndividualFavCell.m; sourceTree = "<group>"; };
+		8481ADEB14C27CF400CBC272 /* AboutViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AboutViewController.h; sourceTree = "<group>"; };
+		8481ADEC14C27CF400CBC272 /* AboutViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AboutViewController.m; sourceTree = "<group>"; };
+		8481ADED14C27CF400CBC272 /* AboutViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = AboutViewController.xib; sourceTree = "<group>"; };
 		84833C7A147BE21B00EEF647 /* SHKOAuthSharer.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SHKOAuthSharer.h; sourceTree = "<group>"; };
 		84833C7B147BE21B00EEF647 /* SHKOAuthSharer.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SHKOAuthSharer.m; sourceTree = "<group>"; };
 		84833C7C147BE21B00EEF647 /* SHKSharer.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SHKSharer.h; sourceTree = "<group>"; };
@@ -1309,9 +1311,9 @@
 				8431D7B9140737A8007CD9A2 /* MapViewController */,
 				8498FAC913EC55FC00CF16C3 /* GongChaSGAppDelegate.h */,
 				8498FACA13EC55FC00CF16C3 /* GongChaSGAppDelegate.m */,
-				8448135814C1C4DC006987D8 /* SettingsViewController.h */,
-				8448135914C1C4DC006987D8 /* SettingsViewController.m */,
-				8448135A14C1C4DC006987D8 /* SettingsViewController.xib */,
+				8481ADEB14C27CF400CBC272 /* AboutViewController.h */,
+				8481ADEC14C27CF400CBC272 /* AboutViewController.m */,
+				8481ADED14C27CF400CBC272 /* AboutViewController.xib */,
 				84B4B5F013F3F5AB00FB09DD /* Images */,
 				8498FAF413EC57F500CF16C3 /* Objects */,
 				8498FAC113EC55FC00CF16C3 /* Resources */,
@@ -1364,6 +1366,7 @@
 		84B4B5F013F3F5AB00FB09DD /* Images */ = {
 			isa = PBXGroup;
 			children = (
+				840316C714C2ACD80006A972 /* inbox_button.jpg */,
 				84954545147FFA480071C368 /* button_textured_30.png */,
 				84954543147FF9F80071C368 /* button_back_textured_30.png */,
 				84C78E96147FA13F00B5E904 /* detail_bg.png */,
@@ -2199,7 +2202,8 @@
 				84BC22A514C08869001F2178 /* frog.caf in Resources */,
 				84BC22A614C08869001F2178 /* cow.caf in Resources */,
 				84BC22A714C08869001F2178 /* cat.caf in Resources */,
-				8448135C14C1C4DC006987D8 /* SettingsViewController.xib in Resources */,
+				8481ADEF14C27CF400CBC272 /* AboutViewController.xib in Resources */,
+				840316C814C2ACD80006A972 /* inbox_button.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -2327,7 +2331,7 @@
 				84BC227D14C080DB001F2178 /* UASubscriptionTableViewDelegate.m in Sources */,
 				84BC227E14C080DB001F2178 /* UASubscriptionUI.m in Sources */,
 				84BC227F14C080DB001F2178 /* UASubscriptionUIUtil.m in Sources */,
-				8448135B14C1C4DC006987D8 /* SettingsViewController.m in Sources */,
+				8481ADEE14C27CF400CBC272 /* AboutViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
