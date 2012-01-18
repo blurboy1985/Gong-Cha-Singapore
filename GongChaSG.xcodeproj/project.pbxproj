@@ -296,6 +296,7 @@
 		84CA8AB1147B77C9007B8BF2 /* MessageUI.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8444AF9A1410C6CB005E7733 /* MessageUI.framework */; };
 		84CA8AB2147B77D0007B8BF2 /* Security.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8444AF9C1410C6CB005E7733 /* Security.framework */; };
 		84CA8AB8147B79EB007B8BF2 /* CFNetwork.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 84CA8AB7147B79EB007B8BF2 /* CFNetwork.framework */; };
+		84D04BB614C6826500056E70 /* gong.wav in Resources */ = {isa = PBXBuildFile; fileRef = 84D04BB514C6826500056E70 /* gong.wav */; };
 		84E54B651428655800160648 /* about-icon.png in Resources */ = {isa = PBXBuildFile; fileRef = 84E54B641428655800160648 /* about-icon.png */; };
 		84E6DFE2141267B7007CA5C2 /* next.png in Resources */ = {isa = PBXBuildFile; fileRef = 84E6DFE1141267B7007CA5C2 /* next.png */; };
 		84EC5C1114264406009EE22D /* Hot.png in Resources */ = {isa = PBXBuildFile; fileRef = 84EC5C0D14264406009EE22D /* Hot.png */; };
@@ -797,6 +798,7 @@
 		84C78E94147F9EE900B5E904 /* table_bg.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = table_bg.png; sourceTree = "<group>"; };
 		84C78E96147FA13F00B5E904 /* detail_bg.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = detail_bg.png; sourceTree = "<group>"; };
 		84CA8AB7147B79EB007B8BF2 /* CFNetwork.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CFNetwork.framework; path = System/Library/Frameworks/CFNetwork.framework; sourceTree = SDKROOT; };
+		84D04BB514C6826500056E70 /* gong.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = gong.wav; sourceTree = "<group>"; };
 		84E54B641428655800160648 /* about-icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "about-icon.png"; sourceTree = "<group>"; };
 		84E6DFE1141267B7007CA5C2 /* next.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = next.png; sourceTree = "<group>"; };
 		84EC5C0D14264406009EE22D /* Hot.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Hot.png; sourceTree = "<group>"; };
@@ -1325,6 +1327,7 @@
 			isa = PBXGroup;
 			children = (
 				84BC22A014C08869001F2178 /* pig.caf */,
+				84D04BB514C6826500056E70 /* gong.wav */,
 				84BC22A114C08869001F2178 /* frog.caf */,
 				84BC22A214C08869001F2178 /* cow.caf */,
 				84BC22A314C08869001F2178 /* cat.caf */,
@@ -2204,6 +2207,7 @@
 				84BC22A714C08869001F2178 /* cat.caf in Resources */,
 				8481ADEF14C27CF400CBC272 /* AboutViewController.xib in Resources */,
 				840316C814C2ACD80006A972 /* inbox_button.jpg in Resources */,
+				84D04BB614C6826500056E70 /* gong.wav in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -2400,8 +2404,8 @@
 				GCC_WARN_UNUSED_VARIABLE = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 4.3;
 				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
-				PROVISIONING_PROFILE = "DB280636-3447-431C-B89A-9A5D9044A083";
-				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "DB280636-3447-431C-B89A-9A5D9044A083";
+				PROVISIONING_PROFILE = "DA877CC7-FDB1-4C24-A749-F9B55E20021F";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "DA877CC7-FDB1-4C24-A749-F9B55E20021F";
 				SDKROOT = iphoneos5.0;
 				VALIDATE_PRODUCT = YES;
 			};
@@ -2434,7 +2438,7 @@
 		8498FAF013EC55FC00CF16C3 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				CODE_SIGN_IDENTITY = "iPhone Distribution";
+				CODE_SIGN_IDENTITY = "iPhone Distribution: Royal T Group Pte Ltd";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: Royal T Group Pte Ltd";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "GongChaSG/GongChaSG-Prefix.pch";
@@ -2447,8 +2451,8 @@
 					"\"$(SRCROOT)/Airship\"",
 				);
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "";
-				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "DB280636-3447-431C-B89A-9A5D9044A083";
+				PROVISIONING_PROFILE = "DA877CC7-FDB1-4C24-A749-F9B55E20021F";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "DA877CC7-FDB1-4C24-A749-F9B55E20021F";
 				SDKROOT = iphoneos5.0;
 				WRAPPER_EXTENSION = app;
 			};
