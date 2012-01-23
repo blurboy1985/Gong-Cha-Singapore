@@ -32,6 +32,8 @@
 - (void)viewDidLoad
 {
     [super viewDidLoad];
+    self.navigationController.navigationBar.tintColor = [UIColor colorWithRed:0.7 green:0 blue:0 alpha:1];
+
     // Do any additional setup after loading the view from its nib.
 }
 
