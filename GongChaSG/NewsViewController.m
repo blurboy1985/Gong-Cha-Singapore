@@ -65,6 +65,8 @@
     
     bannerList = [[NSMutableArray alloc]initWithObjects:
                   [UIImage imageNamed:@"ALL_CalpisSWMAL_iPhone"],
+                  [UIImage imageNamed:@"ToffeeMTwBCJ.jpg"],
+                  [UIImage imageNamed:@"lemonKumquat_promotion.jpg"],
                   [UIImage imageNamed:@"NewsBody1"],
                   nil];
     
@@ -96,7 +98,7 @@
 		UIImageView *tempImageView = [[UIImageView alloc] initWithFrame:CGRectMake(xOffset, 0, 320, 287)];
 		[tempImageView setImage:[bannerList objectAtIndex:i]];
 		tempImageView.layer.cornerRadius = 0;
-        tempImageView.contentMode = UIViewContentModeScaleToFill;
+        tempImageView.contentMode = UIViewContentModeScaleAspectFit;
 		[tempImageView.layer setMasksToBounds:NO];
 		[scrollAdvertisement addSubview:tempImageView];
 		tempImageView.userInteractionEnabled = YES;

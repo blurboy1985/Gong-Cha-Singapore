@@ -628,7 +628,7 @@
 	
 	addAnnotation31 = [[AddressAnnotation alloc] initWithCoordinate:location31];
 	[addAnnotation31 setTitle:@"Greenwich V"];
-	[addAnnotation31 setSubTitle:@"#01-20 Opening Soon!"];
+	[addAnnotation31 setSubTitle:@"#01-20 Tel: 6483 1487"];
 	[mapView addAnnotation:addAnnotation31];
     
     CLLocationCoordinate2D location32 = mapView.userLocation.coordinate;
@@ -747,7 +747,7 @@
 	
 	addAnnotation38 = [[AddressAnnotation alloc] initWithCoordinate:location38];
 	[addAnnotation38 setTitle:@"Junction 10"];
-	[addAnnotation38 setSubTitle:@"#01-26 Opening Soon!"];
+	[addAnnotation38 setSubTitle:@"#01-26 Tel: 6462 3690"];
 	[mapView addAnnotation:addAnnotation38];
     
     CLLocationCoordinate2D location39 = mapView.userLocation.coordinate;
@@ -764,7 +764,7 @@
 	
 	addAnnotation39 = [[AddressAnnotation alloc] initWithCoordinate:location39];
 	[addAnnotation39 setTitle:@"West Coast Plaza"];
-	[addAnnotation39 setSubTitle:@"#B1-57 Opening Soon!"];
+	[addAnnotation39 setSubTitle:@"#B1-57 Tel: 6776 0073"];
 	[mapView addAnnotation:addAnnotation39];
     
     CLLocationCoordinate2D location40 = mapView.userLocation.coordinate;

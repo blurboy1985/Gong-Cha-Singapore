@@ -135,6 +135,8 @@
 		8495453E147FDAF70071C368 /* StoreViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 8495453C147FDAF70071C368 /* StoreViewController.xib */; };
 		84954544147FF9F80071C368 /* button_back_textured_30.png in Resources */ = {isa = PBXBuildFile; fileRef = 84954543147FF9F80071C368 /* button_back_textured_30.png */; };
 		84954546147FFA490071C368 /* button_textured_30.png in Resources */ = {isa = PBXBuildFile; fileRef = 84954545147FFA480071C368 /* button_textured_30.png */; };
+		84956A9B14D78F700073C3ED /* lemonKumquat_promotion.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 84956A9914D78F700073C3ED /* lemonKumquat_promotion.jpg */; };
+		84956A9C14D78F700073C3ED /* ToffeeMTwBCJ.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 84956A9A14D78F700073C3ED /* ToffeeMTwBCJ.jpg */; };
 		8498FABB13EC55FC00CF16C3 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8498FABA13EC55FC00CF16C3 /* UIKit.framework */; };
 		8498FABD13EC55FC00CF16C3 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8498FABC13EC55FC00CF16C3 /* Foundation.framework */; };
 		8498FABF13EC55FC00CF16C3 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8498FABE13EC55FC00CF16C3 /* CoreGraphics.framework */; };
@@ -506,6 +508,8 @@
 		8495453C147FDAF70071C368 /* StoreViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = StoreViewController.xib; sourceTree = "<group>"; };
 		84954543147FF9F80071C368 /* button_back_textured_30.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = button_back_textured_30.png; sourceTree = "<group>"; };
 		84954545147FFA480071C368 /* button_textured_30.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = button_textured_30.png; sourceTree = "<group>"; };
+		84956A9914D78F700073C3ED /* lemonKumquat_promotion.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = lemonKumquat_promotion.jpg; sourceTree = "<group>"; };
+		84956A9A14D78F700073C3ED /* ToffeeMTwBCJ.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = ToffeeMTwBCJ.jpg; sourceTree = "<group>"; };
 		8498FAB613EC55FC00CF16C3 /* GongChaSG.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GongChaSG.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		8498FABA13EC55FC00CF16C3 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		8498FABC13EC55FC00CF16C3 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
@@ -1359,6 +1363,8 @@
 			children = (
 				84954545147FFA480071C368 /* button_textured_30.png */,
 				84954543147FF9F80071C368 /* button_back_textured_30.png */,
+				84956A9914D78F700073C3ED /* lemonKumquat_promotion.jpg */,
+				84956A9A14D78F700073C3ED /* ToffeeMTwBCJ.jpg */,
 				84C78E96147FA13F00B5E904 /* detail_bg.png */,
 				84A3034F14CBAC8B00489454 /* inbox_button.png */,
 				84C78E94147F9EE900B5E904 /* table_bg.png */,
@@ -2184,6 +2190,8 @@
 				8481ADEF14C27CF400CBC272 /* AboutViewController.xib in Resources */,
 				84D04BB614C6826500056E70 /* gong.wav in Resources */,
 				84A3035014CBAC8B00489454 /* inbox_button.png in Resources */,
+				84956A9B14D78F700073C3ED /* lemonKumquat_promotion.jpg in Resources */,
+				84956A9C14D78F700073C3ED /* ToffeeMTwBCJ.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

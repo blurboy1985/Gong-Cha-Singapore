@@ -354,15 +354,15 @@
 	</dict>
 	<dict>
 		<key>Address</key>
-		<string>1 Seletar Road</string>
+		<string>11 Seletar Road</string>
 		<key>Location</key>
 		<string>NORTH</string>
 		<key>Operational Hours</key>
-		<string></string>
+		<string>11am-10pm</string>
 		<key>Outlet</key>
 		<string>Greenwich V </string>
 		<key>Tel No</key>
-		<string>Opening Soon!</string>
+		<string>64831487</string>
 		<key>Unit</key>
 		<string>#01-20</string>
 	</dict>
@@ -498,11 +498,11 @@
 		<key>Location</key>
 		<string>WEST</string>
 		<key>Operational Hours</key>
-		<string></string>
+		<string>11am-10pm</string>
 		<key>Outlet</key>
 		<string>Junction 10 </string>
 		<key>Tel No</key>
-		<string>Opening Soon!</string>
+		<string>64623690</string>
 		<key>Unit</key>
 		<string>#01-26</string>
 	</dict>
@@ -540,11 +540,11 @@
 		<key>Location</key>
 		<string>WEST</string>
 		<key>Operational Hours</key>
-		<string></string>
+		<string>11am-10pm</string>
 		<key>Outlet</key>
 		<string>West Coast Plaza</string>
 		<key>Tel No</key>
-		<string>Opening Soon!</string>
+		<string>67760073</string>
 		<key>Unit</key>
 		<string>#B1-57</string>
 	</dict>
