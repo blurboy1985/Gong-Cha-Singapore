@@ -36,7 +36,7 @@
 		<key>Location</key>
 		<string>CENTRAL</string>
 		<key>Operational Hours</key>
-		<string>9am-9pm</string>
+		<string>9.30am-9.30pm</string>
 		<key>Outlet</key>
 		<string>Alexandra Retail Centre</string>
 		<key>Tel No</key>
@@ -126,7 +126,7 @@
 		<key>Tel No</key>
 		<string>62214338</string>
 		<key>Unit</key>
-		<string>#1-36</string>
+		<string>#01-36</string>
 	</dict>
 	<dict>
 		<key>Address</key>
@@ -162,11 +162,11 @@
 		<key>Location</key>
 		<string>CENTRAL</string>
 		<key>Operational Hours</key>
-		<string></string>
+		<string>11am - 10pm</string>
 		<key>Outlet</key>
 		<string>Paragon</string>
 		<key>Tel No</key>
-		<string>Opening Soon!</string>
+		<string>62357511</string>
 		<key>Unit</key>
 		<string>#B1-39/40</string>
 	</dict>
@@ -176,7 +176,7 @@
 		<key>Location</key>
 		<string>CENTRAL</string>
 		<key>Operational Hours</key>
-		<string>11am-10pm</string>
+		<string>Sun-Thurs 11am-9.50pm, Fri, Sat &amp; eve of PH 11am-10.20pm</string>
 		<key>Outlet</key>
 		<string>Plaza Singapura </string>
 		<key>Tel No</key>
@@ -232,7 +232,7 @@
 		<key>Location</key>
 		<string>CENTRAL</string>
 		<key>Operational Hours</key>
-		<string>11am-10pm</string>
+		<string>Sun-Thurs 11.30am-9.50pm, Fri, Sat &amp; eve of PH, 11.30am-10.50pm</string>
 		<key>Outlet</key>
 		<string>The Cathay </string>
 		<key>Tel No</key>
@@ -330,7 +330,7 @@
 		<key>Location</key>
 		<string>EAST</string>
 		<key>Operational Hours</key>
-		<string>11am-10pm</string>
+		<string>10am – 9pm (Closed on PH)</string>
 		<key>Outlet</key>
 		<string>Singapore Post Centre </string>
 		<key>Tel No</key>
@@ -344,7 +344,7 @@
 		<key>Location</key>
 		<string>EAST</string>
 		<key>Operational Hours</key>
-		<string>11am-10pm</string>
+		<string>10.30am – 10.20pm</string>
 		<key>Outlet</key>
 		<string>Tampines MRT </string>
 		<key>Tel No</key>
@@ -484,7 +484,7 @@
 		<key>Location</key>
 		<string>WEST</string>
 		<key>Operational Hours</key>
-		<string>11am-10pm</string>
+		<string>Mon – Fri 11am – 10pm, Sat – Sun &amp; PH 10am – 10pm</string>
 		<key>Outlet</key>
 		<string>Bukit Panjang Plaza </string>
 		<key>Tel No</key>
@@ -554,7 +554,7 @@
 		<key>Location</key>
 		<string>WEST</string>
 		<key>Operational Hours</key>
-		<string>11am-10pm</string>
+		<string>Mon – Fri 11am – 10pm, Sat – Sun &amp; PH 10am – 10pm</string>
 		<key>Outlet</key>
 		<string>Yew Tee Point </string>
 		<key>Tel No</key>

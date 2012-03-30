@@ -9,10 +9,12 @@
 
 @implementation GongChaSGAppDelegate
 
+
 @synthesize window=_window;
 @synthesize tabBarController=_tabBarController;
 @synthesize managedObjectContext, managedObjectModel, persistentStoreCoordinator;
 @synthesize favouritesTableViewController;
+
 
 
 #pragma mark -

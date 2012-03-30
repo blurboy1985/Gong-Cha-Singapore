@@ -781,7 +781,7 @@
 	
 	addAnnotation40 = [[AddressAnnotation alloc] initWithCoordinate:location40];
 	[addAnnotation40 setTitle:@"Paragon"];
-	[addAnnotation40 setSubTitle:@"#B1-39/40 Opening Soon!"];
+	[addAnnotation40 setSubTitle:@"#B1-39/40 Tel: 6235 7511"];
 	[mapView addAnnotation:addAnnotation40];
     
 	[mapView setRegion:region animated:TRUE];

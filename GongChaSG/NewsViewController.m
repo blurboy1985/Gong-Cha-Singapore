@@ -10,12 +10,47 @@
 #import "NewsViewController.h"
 #import <QuartzCore/QuartzCore.h>
 #import "UAInbox.h"
+#import <AudioToolbox/AudioToolbox.h>
 
 @implementation NewsViewController
+{
+    SystemSoundID soundID;
+}
 
 @synthesize scrollAdvertisement;
 @synthesize pageControlAdvertisement;
 @synthesize pageControl;
+
+- (void)loadSoundEffect
+{
+    NSString *path = [[NSBundle mainBundle]pathForResource:@"gong.wav" ofType:nil];
+    
+    NSURL *fileURL = [NSURL fileURLWithPath:path isDirectory:NO];
+    if (fileURL == nil)
+	{
+		NSLog(@"NSURL is nil for path: %@", path);
+		return;
+	}
+    
+	OSStatus error = AudioServicesCreateSystemSoundID((__bridge CFURLRef)fileURL, &soundID);
+	if (error != kAudioServicesNoError)
+	{
+		NSLog(@"Error code %ld loading sound at path: %@", error, path);
+		return;
+	}
+
+}
+
+- (void)unloadSoundEffect
+{
+	AudioServicesDisposeSystemSoundID(soundID);
+	soundID = 0;
+}
+
+- (void)playSoundEffect
+{
+	AudioServicesPlaySystemSound(soundID);
+}
 
 - (id)initWithNibName:(NSString *)nibNameOrNil bundle:(NSBundle *)nibBundleOrNil
 {
@@ -44,6 +79,9 @@
 - (void)viewDidLoad
 {
     [super viewDidLoad];
+    sleep(1);
+    [self loadSoundEffect];
+    [self performSelector:@selector(playSoundEffect) withObject:nil afterDelay:1.3];
     
     UIImage *imageButton = [UIImage imageNamed:@"inbox_button.jpg"];
    	UIButton *inboxButton = [UIButton buttonWithType:UIButtonTypeCustom];
@@ -65,8 +103,6 @@
     
     bannerList = [[NSMutableArray alloc]initWithObjects:
                   [UIImage imageNamed:@"ALL_CalpisSWMAL_iPhone"],
-                  [UIImage imageNamed:@"ToffeeMTwBCJ.jpg"],
-                  [UIImage imageNamed:@"lemonKumquat_promotion.jpg"],
                   [UIImage imageNamed:@"NewsBody1"],
                   nil];
     
@@ -142,6 +178,7 @@
 - (void)viewDidUnload
 {
     [super viewDidUnload];
+    [self unloadSoundEffect];
     self.pageControlAdvertisement = nil;
     self.pageControl = nil;
     // Release any retained subviews of the main view.
