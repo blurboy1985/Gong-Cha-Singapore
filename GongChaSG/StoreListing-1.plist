@@ -116,17 +116,101 @@
 	</dict>
 	<dict>
 		<key>Address</key>
-		<string>10 Anson Road </string>
+		<string>120 Maxwell Road</string>
 		<key>Location</key>
 		<string>CENTRAL</string>
 		<key>Operational Hours</key>
 		<string>Mon-Sat &amp; eve of PH 10am-9pm, Closed on Sun &amp; PH</string>
 		<key>Outlet</key>
-		<string>International Plaza </string>
+		<string>Tanjong Pagar Mrt</string>
 		<key>Tel No</key>
 		<string>62214338</string>
 		<key>Unit</key>
-		<string>#01-36</string>
+		<string>#B1-08</string>
+	</dict>
+	<dict>
+		<key>Address</key>
+		<string>75 Airport Boulevard</string>
+		<key>Location</key>
+		<string>EAST</string>
+		<key>Operational Hours</key>
+		<string>-</string>
+		<key>Outlet</key>
+		<string>Changi Airport T2 Arrival Hall</string>
+		<key>Tel No</key>
+		<string>62140029</string>
+		<key>Unit</key>
+		<string>#01-6008</string>
+	</dict>
+	<dict>
+		<key>Address</key>
+		<string>5 Changi Business Park Central 1</string>
+		<key>Location</key>
+		<string>EAST</string>
+		<key>Operational Hours</key>
+		<string>11am - 10pm</string>
+		<key>Outlet</key>
+		<string>Changi City Point</string>
+		<key>Tel No</key>
+		<string>66048489</string>
+		<key>Unit</key>
+		<string>#B1-41</string>
+	</dict>
+	<dict>
+		<key>Address</key>
+		<string>4 Tampines Central 5</string>
+		<key>Location</key>
+		<string>EAST</string>
+		<key>Operational Hours</key>
+		<string>11am-10pm</string>
+		<key>Outlet</key>
+		<string>Tampines Mall</string>
+		<key>Tel No</key>
+		<string>67839378</string>
+		<key>Unit</key>
+		<string>#B1-K5</string>
+	</dict>
+	<dict>
+		<key>Address</key>
+		<string>762 Jurong West Street 75</string>
+		<key>Location</key>
+		<string>WEST</string>
+		<key>Operational Hours</key>
+		<string>11am-10pm</string>
+		<key>Outlet</key>
+		<string>Gek Poh Shopping Centre</string>
+		<key>Tel No</key>
+		<string>67909189</string>
+		<key>Unit</key>
+		<string>#01-328</string>
+	</dict>
+	<dict>
+		<key>Address</key>
+		<string></string>
+		<key>Location</key>
+		<string>WEST</string>
+		<key>Operational Hours</key>
+		<string>OPENING SOON</string>
+		<key>Outlet</key>
+		<string>Star Vista</string>
+		<key>Tel No</key>
+		<string></string>
+		<key>Unit</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>Address</key>
+		<string>53 Ang Mo Kio Ave 3</string>
+		<key>Location</key>
+		<string>NORTH</string>
+		<key>Operational Hours</key>
+		<string>11am-10pm</string>
+		<key>Outlet</key>
+		<string>Ang Mo Kio HUB</string>
+		<key>Tel No</key>
+		<string>64818103</string>
+		<key>Unit</key>
+		<string>#02-66</string>
 	</dict>
 	<dict>
 		<key>Address</key>
